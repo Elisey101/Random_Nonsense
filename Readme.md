@@ -1,6 +1,4 @@
 # Random nonsense
 Magic rings
 
-<media width="320" height="240" controls>
-  <source src="video/rings.mp4" type="video/mp4">
-</media>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
