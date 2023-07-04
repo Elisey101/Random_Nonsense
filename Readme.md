@@ -1,1 +1,2 @@
 # Random nonsense
+Magic rings
